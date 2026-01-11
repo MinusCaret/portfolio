@@ -18,3 +18,6 @@ Available as a PDF on [Google Drive](https://drive.google.com/file/d/13EawIUyInj
 - Postman - testing APIs and validating JSON requests/responses
 - Playwright - end-to-end test automation
 - GitHub Actions - basic CI/CD to validate pull requests
+
+## Projects
+- [Automated tests for expandtesting.com](https://github.com/MinusCaret/expand-testing.git)
