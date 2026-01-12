@@ -1,6 +1,6 @@
 # Portfolio
 ## About me
-Quality Assurance professional with 3.5 years of experience in video game and mobile QA, now expanding into SaaS testing. Experienced in manual testing, bug triage, and regression testing, with growing skills in automation using Playwright and API testing with Postman.
+Quality Assurance professional with 4 years of experience in video game and mobile QA, now expanding into SaaS testing. Experienced in manual testing, bug triage, and regression testing, with growing skills in automation using Playwright and API testing with Postman.
 
 ## Experience
 Quality Assurance Analyst - Deep Field Games (July 2022 - Present)
