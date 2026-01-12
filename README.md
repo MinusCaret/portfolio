@@ -3,7 +3,7 @@
 Quality Assurance professional with 4 years of experience in video game and mobile QA, now expanding into SaaS testing. Experienced in manual testing, bug triage, and regression testing, with growing skills in automation using Playwright and API testing with Postman.
 
 ## Experience
-Quality Assurance Analyst - Deep Field Games (July 2022 - Present)
+Quality Assurance Analyst - Deep Field Games (July 2022 - Present)\
 Testing and QC Supervisor - Kiwa Digital (September 2023 - April 2025)
 
 - Manual QA for live software products
