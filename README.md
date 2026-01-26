@@ -20,4 +20,5 @@ Available as a PDF on [Google Drive](https://drive.google.com/file/d/13EawIUyInj
 - Collaboration: Trello, Confluence, Slack, Google Drive  
 
 ## Projects
-- [Automated tests for expandtesting.com](https://github.com/MinusCaret/expand-testing.git)
+- [UI (Playwright) tests for expandtesting.com](https://github.com/MinusCaret/expand-testing.git)
+- [API (Postman) tests for expandtesting.com](https://www.postman.com/minuscaret-7000225/expand-testing/collection/51104267-eb2ab0d9-68f0-4dfa-a32a-8288a1fcc4b1/?action=share&creator=51104267&active-environment=51104267-ce33655d-ab0f-49cf-92fa-ea8ef92c0e9c)
