@@ -14,10 +14,10 @@ Testing and QC Supervisor - Kiwa Digital (September 2023 - April 2025)
 Available as a PDF on [Google Drive](https://drive.google.com/file/d/13EawIUyInj51z-7-fTTd3Z_L1BJuVd9B/view?usp=sharing).
 
 ## Skills & Tools
-- Manual QA: test case execution, regression testing, bug triage  
-- Automation: Playwright (basic scripts), Postman (API testing and validating JSON requests/responses)  
-- Version control & CI/CD: Git, GitHub, GitHub Actions  
-- Collaboration: Trello, Confluence, Slack, Google Drive  
+- Manual QA: test case execution, regression testing, bug triage
+- Automation: Playwright, Postman
+- Version control & CI/CD: Git, GitHub, GitHub Actions
+- Collaboration: Trello, Confluence, Slack, Google Drive
 
 ## Projects
 - [UI (Playwright) tests for expandtesting.com](https://github.com/MinusCaret/expand-testing.git)
