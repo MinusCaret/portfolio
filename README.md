@@ -15,7 +15,7 @@ Available as a PDF on [Google Drive](https://docs.google.com/document/d/1CMcMWKQ
 
 ## Skills & Tools
 - Manual QA: test case execution, regression testing, bug triage
-- Automation: Playwright, Postman
+- Automation & API: Playwright, Postman
 - Version control & CI/CD: Git, GitHub, GitHub Actions
 - Collaboration: Trello, Confluence, Slack, Google Drive
 
