@@ -15,7 +15,7 @@ Testing and QC Supervisor - Kiwa Digital (September 2023 - April 2025)
 - Collaborating with developers and product teams to maintain quality standards
 
 ## Resume
-Available as a PDF on [Google Drive](https://drive.google.com/file/d/1LPVogH-T_kTIPdAQxT8kravXNUWaSI02/view?usp=sharing).
+Available as a PDF on [Google Drive](https://drive.google.com/file/d/1B69_jxEUhRJNtH7ib5LbMWvDJNfqv2nS/view?usp=sharing).
 
 ## Skills & Tools
 - Manual QA: test case execution, regression testing, bug triage
